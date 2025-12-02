@@ -4,7 +4,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/itshivams"><img src="https://itshivam.in/api/github-image?username=itshivams" height="300" /></a>
+        <a href="https://github.com/uzairrr7"><img src="https://itshivam.in/api/github-image?username=uzairrr7" height="300" /></a>
     </div>
 
 
@@ -14,7 +14,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.in" target="_blank">
-        <img src="http://itshivam.in/api/github-profile?username=itshivams&data=followers,repositories,stars,commits&theme=neon" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="http://itshivam.in/api/github-profile?username=uzairrr7&data=followers,repositories,stars,commits&theme=neon" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -32,7 +32,7 @@
 <h3 align="center">
     <samp>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Shivam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Uzair)](https://git.io/typing-svg)
 </samp>
 
 
@@ -51,7 +51,7 @@
 <!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
- <p align="center"><a href="https://github.com/itshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ <p align="center"><a href="https://github.com/uzairrr7"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
  
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -60,7 +60,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 <div align="center">
-  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fuzairrr7%2Fuzairrr7&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
     <br><br>
 
 
@@ -91,7 +91,6 @@
             <li>💬 <b>Ask me about</b>: DevOps, Cloud, iOS Developments and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: Open Source Projects</li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.in">My Portfolio</a>.</li>
         </ul>  
 <hr>
   
@@ -292,9 +291,6 @@
 </table>
 
 
-  <div align="center">
-        <a href="https://github.com/itshivams"><img src="https://itshivam.in/api/portfolio-status" height="240" /></a>
-    </div>
 
 
 
@@ -316,26 +312,21 @@ About Me = {
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-<details>
-<p align="center">
-  <a href="https://github.com/itshivams">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
-  </a>
-</p>
+
 
 <p align="center">
-  <a href="https://github.com/itshivams">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  <a href="https://github.com/uzairrr7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzairrr7&theme=radical" alt="Shivam's GitHub Contribution"/>
   </a>
 </p>
 
 <hr>
 <div align="center">
 <a> 
-<!--     <a href="https://github.com/itshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=itshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+<!--     <a href="https://github.com/uzairrr7"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=uzairrr7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
 
   <div align="center">
-  <a href="https://github.com/itshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=itshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/uzairrr7"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=uzairrr7&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
 </a>
 
@@ -364,7 +355,7 @@ About Me = {
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairrr7&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -374,40 +365,7 @@ About Me = {
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
-</details>
 
-
-
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-
-                  
-<br>
-
-
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's GSSOC Badges   ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  </a>
-</div>
 
 <hr>
 <br>
@@ -416,7 +374,7 @@ About Me = {
 <!--- Shivam's HacktoberFest  ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[![An image of @itshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
+[![An image of @uzairrr7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
