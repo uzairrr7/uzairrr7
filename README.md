@@ -375,7 +375,6 @@ About Me = {
 <!--- Shivam's HacktoberFest  ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[![An image of @uzairrr7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
