@@ -45,7 +45,7 @@
 
 <div>
 
-  <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
+  <h3 align="center">Relentless problem solver 🔧📖 Perpetual evolver, questing for  perfection!📚 💻</h3>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
@@ -72,8 +72,9 @@
 
 
   <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itshivam" /></a>
-  <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username itshivam" /></a>
-  <a href="mailto:contact@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="email of Shivam i.e.   contact@itshivam.in" /></a>
+  <a href="https://www.linkedin.com/in/md-uzair-a7138b343/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username md uzair" />
+  </a>
+  
 
 </div>
 <hr>
