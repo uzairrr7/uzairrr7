@@ -106,6 +106,8 @@
 ---
 
 <table align="center">
+  
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"><br>C++
@@ -122,15 +124,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"><br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"><br>PostgreSQL
-    </td>
   </tr>
 
+  <!-- Row 2 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"><br>SQLite
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40"><br>HTML
     </td>
@@ -142,6 +139,7 @@
     </td>
   </tr>
 
+  <!-- Row 3 -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40"><br>React
@@ -157,37 +155,11 @@
     </td>
   </tr>
 
+  <!-- Row 4 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40"><br>Gin
-    </td>
-    <td align="center" width="96">
-      <img src="https://echo.labstack.com/img/logo-light.svg" width="40" height="40"><br>Echo
-    </td>
-    <td align="center" width="96">
-      <img src="https://gobuffalo.io/images/logo.svg" width="40" height="40"><br>Go Buffalo
-    </td>
     <td align="center" width="96">
       <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"><br>FastAPI
     </td>
-    <td align="center" width="96">
-      <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" width="40" height="40"><br>WebRTC
-    </td>
-    <td align="center" width="96">
-      <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="40" height="40"><br>gRPC
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"><br>Socket.io
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40" height="40"><br>WebSocket
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/29598681?s=200&v=4" width="40" height="40"><br>BullMQ
-    </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40"><br>AWS
     </td>
@@ -195,8 +167,8 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40"><br>Docker
     </td>
   </tr>
-</table>
 
+</table>
 
 
 
