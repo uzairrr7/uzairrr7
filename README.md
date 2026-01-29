@@ -1,5 +1,5 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Icon ------------------------------------------------------------------------------------------------------------------------------>
+<!----- uzair's Icon ------------------------------------------------------------------------------------------------------------------------------>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
   <div>
@@ -10,7 +10,7 @@
 
     
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
+<!----- uzair's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.in" target="_blank">
@@ -69,9 +69,6 @@
 
 
 
-
-
-  <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itshivam" /></a>
   <a href="https://www.linkedin.com/in/md-uzair-a7138b343/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username md uzair" />
   </a>
   
@@ -87,9 +84,9 @@
 <hr>
 <div align="centre">
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: Next.js, Django, Golang, SwiftUI</li>
-            <li>🌱 <b>I’m currently learning</b>: gRPC </li>
-            <li>💬 <b>Ask me about</b>: DevOps, Cloud, iOS Developments and Competetive Programming.</li>
+            <li>🔭 <b>I’m currently working on</b>: java, React, generative AI, DSA</li>
+            <li>🌱 <b>I’m currently learning</b>: OOPS </li>
+            <li>💬 <b>Ask me about</b>: C, C++, Full stack development.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: Open Source Projects</li>
         </ul>  
@@ -301,7 +298,7 @@
 ```js
 About Me = {
 "I find joy in crafting elegant solutions through the art of coding.",
-"Proficient in languages like Python and C++, I navigate the digital realm with expertise.",
+"Proficient in languages like Python and C, I navigate the digital realm with expertise.",
 "My expertise extends to the intricate web technologies of NextJS, Golang, and DevOps, where I blend creativity and functionality seamlessly.",
 "I am more than a student; I am a creator, a problem solver, and a Developer."
 "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
@@ -332,7 +329,7 @@ About Me = {
 </a>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's Quotes ----------------------------------------------------------------------------------------------------------------------------->
+<!--- uzair's Quotes ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
   <hr><div align="center">
@@ -349,7 +346,7 @@ About Me = {
 </div>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
+<!--- uzair's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
@@ -371,9 +368,6 @@ About Me = {
 <hr>
 <br>
 
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's HacktoberFest  ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 
