@@ -92,134 +92,110 @@
         </ul>  
 <hr>
   
-<!-- Skill Set  -->
+<!-- Skill Set -->
 <div align="center">
-    <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
-    <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
+  <h1>
+    Skill Set &nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
+  </h1>
+  <h4>
+    These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions.
+  </h4>
 </div>
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Tech Stack Table    ----------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+---
 
-<table>
-  <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
-      <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" /><br>C++
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" /><br>Python
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
-        </td>
-       
-        
-        
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" /><br>MySQL
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
-        </td>
-      </tr>
-
+<table align="center">
   <tr>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
-        </td>
-       
-       
-        
-      
-       
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /><br>HTML
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /><br>CSS
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
-        </td>
-      </tr>
-
-  <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" /><br>React
-        </td>
-       
-     
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind CSS
-        </td>
-        
-       
-   <tr>
-        
-        
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" /><br>GitHub
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
-        </td>
-       
-      
-        
-      
-       
-      </tr>
-
-   <tr>
-        <td align="center" width="96">
-          <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40" alt="Gin" /><br>Gin
-        </td>
-        <td align="center" width="96">
-          <img src="https://echo.labstack.com/img/logo-light.svg" width="40" height="40" alt="Echo" /><br>Echo
-        </td>
-        <td align="center" width="96">
-          <img src="https://gobuffalo.io/images/logo.svg" width="40" height="40" alt="Go Buffalo" /><br>Go Buffalo
-        </td>
-        <td align="center" width="96">
-          <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40" alt="FastAPI" /><br>FastAPI
-        </td>
-        <td align="center" width="96">
-          <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" width="40" height="40" alt="WebRTC" /><br>WebRTC
-        </td>
-        <td align="center" width="96">
-          <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="40" height="40" alt="gRPC" /><br>gRPC
-        </td>
-        <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40" alt="Socket.io" /><br>Socket.io
-        </td>
-        <td align="center" width="96">
-          <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40" height="40" alt="WebSocket" /><br>WebSocket
-        </td>
-        <td align="center" width="96">
-          <img src="https://avatars.githubusercontent.com/u/29598681?s=200&v=4" width="40" height="40" alt="BullMQ" /><br>BullMQ
-        </td>
-      </tr>
-
-  <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="AWS" /><br>AWS
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" /><br>Docker
-        </td>
-       
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40"><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40"><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40"><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"><br>PostgreSQL
+    </td>
   </tr>
-  </table>
-  </div>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"><br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"><br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"><br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"><br>Bootstrap
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40"><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"><br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40"><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"><br>Node.js
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40"><br>Gin
+    </td>
+    <td align="center" width="96">
+      <img src="https://echo.labstack.com/img/logo-light.svg" width="40" height="40"><br>Echo
+    </td>
+    <td align="center" width="96">
+      <img src="https://gobuffalo.io/images/logo.svg" width="40" height="40"><br>Go Buffalo
+    </td>
+    <td align="center" width="96">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"><br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" width="40" height="40"><br>WebRTC
+    </td>
+    <td align="center" width="96">
+      <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="40" height="40"><br>gRPC
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"><br>Socket.io
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354553/websocket.svg" width="40" height="40"><br>WebSocket
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/29598681?s=200&v=4" width="40" height="40"><br>BullMQ
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40"><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40"><br>Docker
+    </td>
+  </tr>
 </table>
-
-
 
 
 
