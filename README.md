@@ -103,7 +103,7 @@
   </h4>
 </div>
 
----
+<br>
 
 <table align="center">
 
@@ -137,33 +137,22 @@
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45"><br>Bootstrap
     </td>
-
-    <!-- Empty cells for alignment -->
-    <td width="110"></td>
-    <td width="110"></td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"><br>React
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45"><br>Tailwind
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js
     </td>
-
-    <!-- Empty cell -->
-    <td width="110"></td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
     <td align="center" width="110">
       <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45"><br>FastAPI
     </td>
@@ -173,14 +162,9 @@
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"><br>Docker
     </td>
-
-    <!-- Empty cells -->
-    <td width="110"></td>
-    <td width="110"></td>
   </tr>
 
 </table>
-
 
 
 
