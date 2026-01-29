@@ -296,13 +296,16 @@
 <!-- About me  -->
 
 ```js
+
 About Me = {
-"I find joy in crafting elegant solutions through the art of coding.",
-"Proficient in languages like Python and C, I navigate the digital realm with expertise.",
-"My expertise extends to the intricate web technologies of NextJS, Golang, and DevOps, where I blend creativity and functionality seamlessly.",
-"I am more than a student; I am a creator, a problem solver, and a Developer."
-"Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
+"I love crafting digital experiences through clean and efficient code.",
+"From frontend designs with React and Tailwind CSS to backend logic with Node.js, I enjoy full-stack development.",
+"My strong foundation in Python and C++ helps me solve problems with confidence.",
+"I am a developer in progress, constantly exploring and improving my skills.",
+"Let’s connect and build the future, one project at a time. 🚀💻"
 }
+
+
 ```
 
 <hr>
