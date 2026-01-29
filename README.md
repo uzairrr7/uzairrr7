@@ -99,76 +99,88 @@
     <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
   </h1>
   <h4>
-    These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions.
+    These technologies represent my expertise and hands-on experience.
   </h4>
 </div>
 
 ---
 
 <table align="center">
-  
+
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"><br>C++
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45"><br>C++
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40"><br>Python
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"><br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40"><br>JavaScript
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"><br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40"><br>MySQL
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"><br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"><br>MongoDB
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"><br>HTML
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="45"><br>HTML
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"><br>CSS
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="45"><br>CSS
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"><br>Bootstrap
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45"><br>Bootstrap
     </td>
+
+    <!-- Empty cells for alignment -->
+    <td width="110"></td>
+    <td width="110"></td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40"><br>React
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"><br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"><br>Tailwind
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45"><br>Tailwind
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40"><br>GitHub
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"><br>Node.js
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js
     </td>
+
+    <!-- Empty cell -->
+    <td width="110"></td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
-    <td align="center" width="96">
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"><br>FastAPI
+    <td align="center" width="110">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45"><br>FastAPI
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40"><br>AWS
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"><br>AWS
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40"><br>Docker
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"><br>Docker
     </td>
+
+    <!-- Empty cells -->
+    <td width="110"></td>
+    <td width="110"></td>
   </tr>
 
 </table>
+
 
 
 
